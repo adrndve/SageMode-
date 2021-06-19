@@ -1,0 +1,16 @@
+/home/adrian/Projects/Exercise5/bin/Debug/net6.0/Exercise5
+/home/adrian/Projects/Exercise5/bin/Debug/net6.0/Exercise5.deps.json
+/home/adrian/Projects/Exercise5/bin/Debug/net6.0/Exercise5.runtimeconfig.json
+/home/adrian/Projects/Exercise5/bin/Debug/net6.0/Exercise5.runtimeconfig.dev.json
+/home/adrian/Projects/Exercise5/bin/Debug/net6.0/Exercise5.dll
+/home/adrian/Projects/Exercise5/bin/Debug/net6.0/ref/Exercise5.dll
+/home/adrian/Projects/Exercise5/bin/Debug/net6.0/Exercise5.pdb
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/Exercise5.csproj.AssemblyReference.cache
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/Exercise5.AssemblyInfoInputs.cache
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/Exercise5.AssemblyInfo.cs
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/Exercise5.csproj.CoreCompileInputs.cache
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/Exercise5.dll
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/ref/Exercise5.dll
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/Exercise5.pdb
+/home/adrian/Projects/Exercise5/obj/Debug/net6.0/Exercise5.genruntimeconfig.cache

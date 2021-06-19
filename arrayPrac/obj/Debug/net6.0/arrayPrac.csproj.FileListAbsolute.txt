@@ -1,0 +1,16 @@
+/home/adrian/Projects/arrayPrac/bin/Debug/net6.0/arrayPrac
+/home/adrian/Projects/arrayPrac/bin/Debug/net6.0/arrayPrac.deps.json
+/home/adrian/Projects/arrayPrac/bin/Debug/net6.0/arrayPrac.runtimeconfig.json
+/home/adrian/Projects/arrayPrac/bin/Debug/net6.0/arrayPrac.runtimeconfig.dev.json
+/home/adrian/Projects/arrayPrac/bin/Debug/net6.0/arrayPrac.dll
+/home/adrian/Projects/arrayPrac/bin/Debug/net6.0/ref/arrayPrac.dll
+/home/adrian/Projects/arrayPrac/bin/Debug/net6.0/arrayPrac.pdb
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/arrayPrac.csproj.AssemblyReference.cache
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/arrayPrac.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/arrayPrac.AssemblyInfoInputs.cache
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/arrayPrac.AssemblyInfo.cs
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/arrayPrac.csproj.CoreCompileInputs.cache
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/arrayPrac.dll
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/ref/arrayPrac.dll
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/arrayPrac.pdb
+/home/adrian/Projects/arrayPrac/obj/Debug/net6.0/arrayPrac.genruntimeconfig.cache

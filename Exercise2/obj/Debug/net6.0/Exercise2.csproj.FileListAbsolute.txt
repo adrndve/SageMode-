@@ -1,0 +1,16 @@
+/home/adrian/Projects/Exercise2/bin/Debug/net6.0/Exercise2
+/home/adrian/Projects/Exercise2/bin/Debug/net6.0/Exercise2.deps.json
+/home/adrian/Projects/Exercise2/bin/Debug/net6.0/Exercise2.runtimeconfig.json
+/home/adrian/Projects/Exercise2/bin/Debug/net6.0/Exercise2.runtimeconfig.dev.json
+/home/adrian/Projects/Exercise2/bin/Debug/net6.0/Exercise2.dll
+/home/adrian/Projects/Exercise2/bin/Debug/net6.0/ref/Exercise2.dll
+/home/adrian/Projects/Exercise2/bin/Debug/net6.0/Exercise2.pdb
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/Exercise2.csproj.AssemblyReference.cache
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/Exercise2.AssemblyInfoInputs.cache
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/Exercise2.AssemblyInfo.cs
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/Exercise2.csproj.CoreCompileInputs.cache
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/Exercise2.dll
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/ref/Exercise2.dll
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/Exercise2.pdb
+/home/adrian/Projects/Exercise2/obj/Debug/net6.0/Exercise2.genruntimeconfig.cache
