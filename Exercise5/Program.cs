@@ -1,8 +1,6 @@
 ﻿using System;
-
 Console.Clear();
-while (true)
-{
+
     Console.Write("Enter number of rows: ");
     int max_row = int.Parse(Console.ReadLine());
 
@@ -14,9 +12,13 @@ while (true)
 
     Console.WriteLine("Original table");
     dispTable(table, -1, -1);
+    
+while (true)
+{
 
     Console.Write("Do you want to change a number in any cordinate y/n? ");
     String input = Console.ReadLine();
+    
     if (input == "y")
     {
         Console.Clear();
@@ -58,7 +60,7 @@ static int[,] createTable(int max_col, int max_row)
             table[x, y] = (x + 1) * (y + 1);
         }
     }
-        return (table);
+        return table;
 }
 
 static void dispTable(int[,] table, int xloc, int yloc)
