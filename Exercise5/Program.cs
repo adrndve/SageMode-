@@ -24,14 +24,14 @@ while (true)
         Console.Clear();
 
         Console.Write("Enter coordinate X: ");
-        int x = int.Parse(Console.ReadLine());
+        int y = int.Parse(Console.ReadLine())-1;
         Console.Write("Entercoordinate Y: ");
-        int y = int.Parse(Console.ReadLine());
+        int x = int.Parse(Console.ReadLine())-1;
         Console.Write("Replacement value: ");
         int replacementValue = int.Parse(Console.ReadLine());
         Console.Clear();
             
-        table[x,y] = replacementValue;  
+        table[y,x] = replacementValue;  
 
         Console.WriteLine("New Table");
         dispTable(table, x, y);
@@ -65,14 +65,14 @@ static int[,] createTable(int max_col, int max_row)
 
 static void dispTable(int[,] table, int xloc, int yloc)
 {
-    for (int y = 0; y < table.GetLength(0); y++)
+    for (int x = 0; x < table.GetLength(0); x++)
     {
-        for (int x = 0; x < table.GetLength(1); x++)
+        for (int y = 0; y < table.GetLength(1); y++)
         {
             if(x == xloc && y == yloc) 
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.Write(table[x, y]);
+                Console.Write(table[y, x]);
                 Console.ForegroundColor = ConsoleColor.White;
             } 
             else 
